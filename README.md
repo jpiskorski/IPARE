@@ -13,4 +13,6 @@ The value of <b>information provision actvity flag</b> is either 0 or 1 dependin
 The remaining fields contain the information on reporting entity, target entity, frequency and deadline information that is contained in text snippet. 
 In case a value is missing a "-" symbol is used, whereas in case of mutiple values (e.g., multiple entites, deadlines, etc.), they are separated by a semicolon. 
 
+Please use the following [BIB](https://github.com/jpiskorski/IPARE/edit/main/citation.bib) file for citation.
+
 
